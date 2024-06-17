@@ -1,0 +1,43 @@
+
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific directories
+ipch/
+obj/
+bin/
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.sw?
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio IntelliCode
+.vs/
+
+
+# Roslyn directory
+roslyn/
+
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Benchmark.NET
+BenchmarkDotNet.Artifacts/
